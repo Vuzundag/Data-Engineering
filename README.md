@@ -1,3 +1,3 @@
 # Data-Engineering
-Data Egnineering exercises and projects repository
+This repository includes selected course assignments of Data Egnineering class
 
